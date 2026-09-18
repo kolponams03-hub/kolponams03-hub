@@ -3,7 +3,7 @@
 💻 Aspiring Software Engineer | 🌐 Web Developer | 📚 DSA Learner (C++)
 
 ---
-
+https://github.com/kolponams03-hub/counterApp
 ## 🌿 About Me (Bismillah)
 
 > "And say: My Lord, increase me in knowledge." (Qur’an 20:114)
@@ -67,8 +67,8 @@
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/kolponams03-hub
-- Email:kolponams03@gmail.com
-- Codeforce:https://codeforces.com/profile/kolpona166
+- Email: kolponams03@gmail.com
+- Codeforce: https://codeforces.com/profile/kolpona166
 
 ---
 
