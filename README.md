@@ -3,7 +3,7 @@
 💻 Aspiring Software Engineer | 🌐 Web Developer | 📚 DSA Learner (C++)
 
 ---
-https://github.com/kolponams03-hub/counterApp
+
 ## 🌿 About Me (Bismillah)
 
 > "And say: My Lord, increase me in knowledge." (Qur’an 20:114)
