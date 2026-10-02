@@ -29,11 +29,6 @@
 - Basic Algorithm Thinking
 - Problem Decomposition
 
-### 🧰 Tools & Platforms
-- Git & GitHub
-- VS Code
-- Basic Debugging Skills
-
 ---
 
 ## 📈 Current Learning Path
@@ -46,24 +41,6 @@
 
 ---
 
-## 📌 Goals
-
-- 🎯 Solve 300+ DSA problems with strong understanding
-- 🏗️ Build real-world web development projects
-- 🧠 Improve logical thinking and system design basics
-- 💼 Prepare for top tech company level interviews
-- 🤲 Seek knowledge with sincerity and purpose
-
----
-
-## 📂 Projects
-
-- 🌟 Beginner Web Projects (Coming soon, InshaAllah)
-- 🐍 Snake Game using JavaScript (Practice Project)
-- 🔢 Prime Number Checker (JavaScript Logic Practice)
-
----
-
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/kolponams03-hub
@@ -72,13 +49,6 @@
 
 ---
 
-## ⚡ Reflection
-
-> "Indeed, with hardship comes ease." (Qur’an 94:6)
-
-> "Small consistent actions lead to great results over time."
-
----
 
 ## 🤲 Closing Note
 
