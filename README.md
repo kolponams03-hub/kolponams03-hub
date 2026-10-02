@@ -1,6 +1,6 @@
 <h1 align="center">Assalamu Alaikum 👋, I'm Kolpona Akter</h1> <h3 align="center">💻 Aspiring Software Engineer | 🌐 Web Developer | 📚 DSA Learner (C++)</h3>
 
-🌿 About Me (Bismillah)
+🌿 About Me (Bismillah)<br>
 "And say: My Lord, increase me in knowledge." — Qur’an 20:114
 🌱 Currently learning Data Structures & Algorithms using C++
 💻 Skilled in HTML, CSS, JavaScript
