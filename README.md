@@ -1,57 +1,9 @@
-# 👋 Assalamu Alaikum, I'm Kolpona Akter
+<h1 align="center"> Assalamu Alaikum👋, I'm Kolpona Akter</h1>
+<h3 align="center">💻 Aspiring Software Engineer | 🌐 Web Developer | 📚 DSA Learner (C++)</h3>
 
-💻 Aspiring Software Engineer | 🌐 Web Developer | 📚 DSA Learner (C++)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
-
-## 🌿 About Me (Bismillah)
-
-> "And say: My Lord, increase me in knowledge." (Qur’an 20:114)
-
-- 🌱 I am currently learning **Data Structures & Algorithms using C++**
-- 💻 I know **HTML, CSS, and JavaScript**
-- 🎯 My goal is to become a **strong problem solver and a beneficial software engineer**
-- 🧠 I enjoy building logic and solving coding problems step by step
-- 🌍 I aspire to contribute to meaningful technology at a global level
-- 🤲 I believe success comes only by the will of Allah and continuous effort
-
----
-
-## 🛠️ Skills
-
-### 🌐 Frontend Development
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-
-### 💡 Programming & Problem Solving
-- C++ (DSA Learning)
-- Basic Algorithm Thinking
-- Problem Decomposition
-
----
-
-## 📈 Current Learning Path
-
-- 🔥 Data Structures & Algorithms in C++
-- 🧠 Problem Solving (Arrays, Strings, Recursion, Sorting, Searching)
-- 🌐 Improving JavaScript for real-world applications
-- 🚀 Building small but meaningful web projects
-- 📚 Strengthening consistency and discipline in learning
-
----
-
-## 📫 Connect with Me
-
-- GitHub: https://github.com/kolponams03-hub
-- Email: kolponams03@gmail.com
-- Codeforce: https://codeforces.com/profile/kolpona166
-
----
-
-
-## 🤲 Closing Note
-
-I am continuously learning, improving, and striving to use technology in a beneficial and ethical way.
-
-May Allah make this journey easy and successful. Ameen.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
